@@ -11,5 +11,13 @@ let isLoggedIn = false
 // bigint
 // string => ""
 // boolean => true/false
-// null => standalone value(also datatype)
-// undefined => 
+// null => standalone value(also datatype)(representaion of empty value)
+// undefined => (no value added) let state; here var declared but value is not set
+// symbol => find uniqueness
+
+// OBJECT
+console.log(typeof "siddhi")
+console.log(typeof age);
+// null is an object and undefined is undefined type
+console.log(typeof null)
+console.log(typeof undefined)
