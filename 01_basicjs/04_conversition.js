@@ -75,3 +75,4 @@ console.log(typeof bigNumber);
 console.log(typeof scoreValue);
 console.log(typeof myFunction);
 console.log(typeof anotherId);
+// for id and another id it will come symbol
