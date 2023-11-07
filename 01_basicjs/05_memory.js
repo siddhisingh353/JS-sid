@@ -52,5 +52,28 @@ console.log(gameName.charAt(4));
 console.log(gameName.indexOf('d'));
 
 const newString = gameName.substring(0,4)
+console.log(newString);
+
+const anotherString = gameName.slice(-8,4)
+console.log(anotherString);
+
+const newStringOne = "   siddhi    "
+console.log(newStringOne);
+console.log(newStringOne.trim());
+// trim remove extra spaces 
+// browser doesnt understand spaces it automatically fill
+const url = "http://sid.com/sid%20singh"
+console.log(url.replace('%20', '-'))
+
+console.log(url.includes('sid'))
+// make them in form of arry using split and seperate it with any key(_,/,)
+console.log(gameName.split('-'))
+
+
+
+
+
+
+
 
 
