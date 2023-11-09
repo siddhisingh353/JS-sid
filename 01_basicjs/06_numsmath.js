@@ -42,7 +42,7 @@ const max = 20
 // only to avoid zero value.[formula]
 console.log(Math.random() * (max - min + 1));
 // to achieve atleat minimum value.
-console.log(Math.floor(Math.random() * (max - min + 1)) + );
+console.log(Math.floor(Math.random() * (max - min + 1)) + min);
 
 
 
