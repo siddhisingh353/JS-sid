@@ -22,7 +22,7 @@
 // // its a javascript library which comes by default
 
 // console.log(Math);
-// // abs/absolute:only to change minus sign
+// // .abs/absolute:only to change minus sign
 // console.log(Math.abs(-5));
 // // **************round of  (wrap value)***********************
 // console.log(Math.round(4.3));
